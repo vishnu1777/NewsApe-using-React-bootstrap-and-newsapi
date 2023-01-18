@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Eric Levenson, Elizabeth Wolfe, Jason Carroll",
+    "title": "Brian Walshe, charged with murdering his wife Ana Walshe, expected to be arraigned today - CNN",
+    "description": "Brian Walshe killed and dismembered his wife Ana Walshe and disposed of her body in dumpsters across suburban Boston, a prosecutor with the Norfolk district attorney's office said at his arraignment on Wednesday.",
+    "url": "https://www.cnn.com/2023/01/18/us/brian-walshe-murder-charge-arraignment-ana-walshe-wednesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230117101359-02-brian-walshe-court-0109.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-01-18T14:42:00Z",
+    "content": "[Breaking news update, published at 9:41 a.m. ET]\r\nBrian Walshe killed and dismembered his wife Ana Walshe and disposed of her body in dumpsters across suburban Boston, a prosecutor with the Norfolk … [+6082 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Ukrainian interior minister killed in helicopter crash near Kyiv - Reuters",
+    "description": "Fourteen people including Ukraine's interior minister and a child were killed when a helicopter crashed in fog near a nursery outside Kyiv on Wednesday, in what President Volodymyr Zelenskiy called a \"terrible tragedy\".",
+    "url": "https://www.reuters.com/world/europe/aircraft-crashes-into-building-outside-ukrainian-capital-kyiv-2023-01-18/",
+    "urlToImage": "https://www.reuters.com/resizer/ycQjfaN_xTLC7KH437SJ4UEcFAE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XAZVN6LNSBLLNFFPINSRKISMJA.jpg",
+    "publishedAt": "2023-01-18T14:29:00Z",
+    "content": "BROVARY, Ukraine, Jan 18 (Reuters) - Fourteen people including Ukraine's interior minister and a child were killed when a helicopter crashed in fog near a nursery outside Kyiv on Wednesday, in what P… [+3717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jordan Novet",
+    "title": "Microsoft is laying off 10,000 employees - CNBC",
+    "description": "Microsoft said it's letting go of 10,000 employees and taking a $1.2 billion charge as the software maker braces for slower top-line growth.",
+    "url": "https://www.cnbc.com/2023/01/18/microsoft-is-laying-off-10000-employees.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107179799-1673990952874-gettyimages-1244789692-SKOREA_MICROSOFT.jpeg?v=1674051320&w=1920&h=1080",
+    "publishedAt": "2023-01-18T14:15:20Z",
+    "content": "Microsoft said Wednesday that it's letting go of 10,000 employees through March 31 as the software maker braces for slower revenue growth. The company is also taking a $1.2 billion charge.\r\nAlphabet,… [+3003 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Space.com"
+    },
+    "author": "Elizabeth Howell",
+    "title": "SpaceX launches advanced GPS satellite for US Space Force, nails the landing - Space.com",
+    "description": "The rocket blasted off at 7:24 a.m. EST.",
+    "url": "https://www.space.com/spacex-falcon-9-gps-iii-sv06-amelia-earhart-launch",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/iwFBx29tStoHnrLXFDSeV3-1200-80.jpg",
+    "publishedAt": "2023-01-18T14:09:08Z",
+    "content": "That's four launches already for SpaceX this year.\r\nSpaceX's Falcon 9 rocket lifted off from Cape Canaveral Space Force Station in Florida on Wednesday (Jan. 18) at 7:24 a.m. EST (1224 GMT) with a ne… [+3535 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Apple Newsroom"
+    },
+    "author": null,
+    "title": "Apple introduces the new HomePod with breakthrough sound and intelligence - Apple",
+    "description": "Delivering incredible audio quality, enhanced Siri capabilities, and a safe and secure smart home experience.",
+    "url": "https://www.apple.com/newsroom/2023/01/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/",
+    "urlToImage": "https://www.apple.com/newsroom/images/product/homepod/lifestyle/Apple-HomePod-hero-230118.jpg.og.jpg?202301181453",
+    "publishedAt": "2023-01-18T14:07:07Z",
+    "content": "January 18, 2023\r\nPRESS RELEASE\r\nApple introduces the new HomePod with breakthrough sound and intelligence\r\nDelivering incredible audio quality, enhanced Siri capabilities, and a safe and secure smar… [+10319 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Wholesale prices dipped 0.5% in December, more than expected - CNBC Television",
+    "description": "CNBC's Steve Liesman reports on December's PPI and retail sales data. For access to live and exclusive video from CNBC subscribe to CNBC PRO: https://cnb.cx/...",
+    "url": "https://www.youtube.com/watch?v=OlVr-ttznco",
+    "urlToImage": "https://i.ytimg.com/vi/OlVr-ttznco/maxresdefault.jpg",
+    "publishedAt": "2023-01-18T13:57:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Aya Elamroussi",
+    "title": "A teenage mother and her 10-month-old baby were gunned down while running from a 'cartel-style execution' in central California that left 6 dead, police say - CNN",
+    "description": "A young mother was clutching her 10-month-old son and running for safety when they were both gunned down during a horrific attack that left six dead in a small central California community, the sheriff said.",
+    "url": "https://www.cnn.com/2023/01/18/us/goshen-california-shooting-wednesday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118114725-tulare-county-shooting-victims-alissa-nycholas-parraz.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-01-18T13:53:00Z",
+    "content": "A young mother was clutching her 10-month-old son and running for safety when they were both gunned down during a horrific attack that left six dead in a small central California community, the sheri… [+4708 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Megan Henney",
+    "title": "Wholesale inflation tumbled 0.5% in December, more than expected - Fox Business",
+    "description": "Inflation at the wholesale level fell faster than expected in December as high producer prices begin to moderate, the Labor Department reported on Wednesday.",
+    "url": "https://www.foxbusiness.com/economy/wholesale-inflation-tumbled-december-more-than-expected",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/manufacturing-1.jpg?ve=1&tl=1",
+    "publishedAt": "2023-01-18T13:34:43Z",
+    "content": "Inflation at the wholesale level declined more than expected in December, the latest sign that painfully high consumer prices are finally beginning to loosen their stranglehold on the U.S. economy\r\n.… [+2638 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Matt Grobar",
+    "title": "Netflix 2023 Film Slate Unveiled: ‘Luther: The Fallen Sun’, ‘The Mother’, ‘Extraction 2’, ‘Heart Of Stone,‘ ’The Killer’, ‘Rebel Moon’ & Others Get Premiere Dates - Deadline",
+    "description": "Netflix has unveiled its 2023 feature film slate, consisting of 49 titles.  The streamer’s feature slate has slimmed down significantly from 2022, when 86 films were announced. It should…",
+    "url": "https://deadline.com/2023/01/netflix-2023-film-dates-luther-the-fallen-sun-extraction-2-rebel-moon-1235224498/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/01/DAM_20220620_28868_R2YIP.jpg?w=1024",
+    "publishedAt": "2023-01-18T13:00:00Z",
+    "content": "Netflix has unveiled its 2023 feature film slate, consisting of 49 titles. \r\nThe streamer’s feature slate has slimmed down significantly from 2022, when 86 films were announced. It should also be not… [+34899 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Saskya Vandoorne",
+    "title": "The world's oldest person, a French nun, dies at 118 - CNN",
+    "description": "French nun Sister André, the world's oldest known person, died on Tuesday at the age of 118 in the southern city of Toulon.",
+    "url": "https://www.cnn.com/2023/01/17/europe/france-oldest-person-world-dies-intl/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230117174717-sister-andre-lucile-randon-file-021021.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-01-18T12:01:00Z",
+    "content": "French nun Sister André, the worlds oldest known person, died on Tuesday at the age of 118 in the southern city of Toulon.\r\nThe citys mayor, Hubert Falco, announced the news of her death on Twitter, … [+1405 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Ryan Gaydos",
+    "title": "Tom Brady admirer takes page out of Gisele Bündchen's playbook, blames Bucs players for loss - Fox News",
+    "description": "Slovakian model Veronika Rajek had some choice words for the Tampa Bay Buccaneers after the team's playoff loss to the Dallas Cowboys on Monday night.",
+    "url": "https://www.foxnews.com/sports/tom-brady-admirer-takes-page-out-gisele-bundchens-playbook-blames-bucs-players-loss",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/Tom-Brady40.jpg",
+    "publishedAt": "2023-01-18T11:35:00Z",
+    "content": "A Tom Brady superfan made clear on Tuesday the Tampa Bay Buccaneers lost because of everyone else and not the seven-time Super Bowl champion quarterback.\r\nSlovakian model Veronika Rajek, who was thru… [+2071 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Ananya Bhattacharya",
+    "title": "China didn't release a single Marvel movie in three years. Next month, two will hit the screens - Yahoo Finance",
+    "description": "The last Marvel movie to hit Chinese theaters was Avengers: Endgame back in 2019.",
+    "url": "https://finance.yahoo.com/news/china-didnt-release-single-marvel-111400217.html",
+    "urlToImage": "https://media.zenfs.com/en/quartz.com/4dd4d65dd14970bb2a33b3e971b2cc8b",
+    "publishedAt": "2023-01-18T11:14:00Z",
+    "content": "The last Marvel movie to hit Chinese theaters was Avengers: Endgame back in 2019.\r\nFor the following three years the country, which vets and releases foreign films on a case by case basis, did not ap… [+4239 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Ivana Saric",
+    "title": "Greta Thunberg detained by police at German coal protest - Axios",
+    "description": "Thunberg has been taking part in the protest in Lützerath, Germany for several days.",
+    "url": "https://www.axios.com/2023/01/17/greta-thunberg-detained-germany-coal-mine-protest",
+    "urlToImage": "https://images.axios.com/DYAt-4O2aTa84VNJrvGCvGD_oQE=/0x0:8256x4644/1366x768/2023/01/17/1673976074000.jpg",
+    "publishedAt": "2023-01-18T10:07:30Z",
+    "content": "Climate activist Greta Thunberg was detained by police at a protest Tuesday in western Germany, but released following an identity check, multiple outlets reported.\r\nDriving the news: Thunberg alongs… [+1181 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Aamer Madhani",
+    "title": "Netherlands says it will send Patriot assistance to Ukraine - The Associated Press - en Español",
+    "description": "WASHINGTON (AP) — Netherlands Prime Minister Mark Rutte  said Tuesday that his country plans to \"join” the U.S. and Germany's efforts to train and arm Ukraine with advanced Patriot defense systems.",
+    "url": "https://apnews.com/article/russia-ukraine-biden-politics-netherlands-government-united-states-03128d7faeb04340cc8a1421cf6ae42e",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/4acdae97a52b43e4a9aaffb4f78f6eae/3000.webp",
+    "publishedAt": "2023-01-18T09:34:18Z",
+    "content": "WASHINGTON (AP) Netherlands Prime Minister Mark Rutte said Tuesday that his country plans to join the U.S. and Germanys efforts to train and arm Ukraine with advanced Patriot defense systems.\r\nRutte … [+5573 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PhoneArena"
+    },
+    "author": "Daniel Petrov",
+    "title": "Samsung Galaxy S23 preorder reservations are live, score an S23 Ultra deal! - PhoneArena",
+    "description": "Samsung opened the Galaxy S23 series preorder reservations with early bird deals.",
+    "url": "https://www.phonearena.com/news/samsung-galaxy-s23-preorder-reservations-offer_id144719",
+    "urlToImage": "https://m-cdn.phonearena.com/images/article/144719-wide-two_1200/Samsung-Galaxy-S23-preorder-reservations-are-live-score-an-S23-Ultra-deal.jpg",
+    "publishedAt": "2023-01-18T07:40:30Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KTLA Los Angeles"
+    },
+    "author": "Vivian Chow",
+    "title": "Family of Orange County lawyer found dead in Mexico speaks out, says he was the victim of ‘brutal crime’ - KTLA Los Angeles",
+    "description": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.” Elliot Blair, 33, died early Saturday at Las Rocas Resort and Spa in Rosa…",
+    "url": "https://ktla.com/news/local-news/family-of-orange-county-lawyer-found-dead-in-mexico-speaks-out-says-he-was-the-victim-of-brutal-crime/",
+    "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/01/Orange-County-Sheriffs-department-16.png?w=1280",
+    "publishedAt": "2023-01-18T05:26:15Z",
+    "content": "The family of an Orange County public defender who died in Mexico while celebrating his one-year wedding anniversary is speaking out on Tuesday, claiming his death was a “brutal crime.”\r\nElliot Blair… [+3789 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Jori Epstein",
+    "title": "Brett Maher had the 'yips.' Here's how Cowboys plan to help their kicker before they face 49ers - Yahoo Sports",
+    "description": "On Tuesday morning in a meeting, the kicker was “distraught” after making inglorious history. Coaches agreed Maher’s concerns Monday night were psychological...",
+    "url": "https://sports.yahoo.com/brett-maher-had-the-yips-heres-how-cowboys-plan-to-help-their-kicker-before-they-face-49-ers-052309994.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3PJuiON60GqUKyGDU6iYTg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/a6417f10-96e9-11ed-abfe-9ea0cbfb63a7",
+    "publishedAt": "2023-01-18T05:23:00Z",
+    "content": "FRISCO, Texas The message was consistent. But the tone varied.\r\nThe Dallas Cowboys expressed no plans Tuesday to move on from kicker Brett Maher after he became the first player in NFL history to mis… [+7739 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "Margaret Stafford",
+    "title": "Art professor sues after firing over Prophet Muhammad images - The Associated Press - en Español",
+    "description": "ST. PAUL, Minn. (AP) — Attorneys for an adjunct art professor said Tuesday she is suing the Minnesota university that dismissed her  after a Muslim student objected to depictions of the Prophet Muhammad in a global art course, while the university admitted to…",
+    "url": "https://apnews.com/article/colleges-and-universities-minnesota-st-paul-religion-ba1f75e62e6c73eb46117d7f8394b3a4",
+    "urlToImage": "https://storage.googleapis.com/afs-prod/media/9660ac2f1af94d559e0b325d16189f4e/3000.webp",
+    "publishedAt": "2023-01-18T04:07:30Z",
+    "content": "ST. PAUL, Minn. (AP) Attorneys for an adjunct art professor said Tuesday she is suing the Minnesota university that dismissed her after a Muslim student objected to depictions of the Prophet Muhammad… [+4277 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ScienceAlert"
+    },
+    "author": "David Nield",
+    "title": "Record-Breaking Signal From Distant Galaxy Is Furthest of Its Kind Ever Detected - ScienceAlert",
+    "description": "Hydrogen is a key building block of the cosmos.",
+    "url": "https://www.sciencealert.com/record-breaking-signal-from-distant-galaxy-is-furthest-of-its-kind-ever-detected",
+    "urlToImage": "https://www.sciencealert.com/images/2023/01/GMRTelescope.jpg",
+    "publishedAt": "2023-01-18T03:47:33Z",
+    "content": "Hydrogen is a key building block of the cosmos. Whether stripped down to its charged core, or piled into a molecule, the nature of its presence can tell you a lot about the Universe's features on the… [+3220 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Apple indefinitely postpones launch of AR glasses - Bloomberg News - Reuters",
+    "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-reality h…",
+    "url": "https://www.reuters.com/technology/apple-indefinitely-postpones-launch-ar-glasses-bloomberg-news-2023-01-18/",
+    "urlToImage": "https://www.reuters.com/resizer/rhSCwc4D20BT8kwwTmQWRjFuKI4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q5L7PYFD3RPW7AU5GNNPEUSXEA.jpg",
+    "publishedAt": "2023-01-18T03:47:00Z",
+    "content": "Jan 17 (Reuters) - Apple Inc (AAPL.O) has postponed the launch of its lightweight augmented-reality glasses indefinitely due to technical challenges, but is still planning to unveil its first mixed-r… [+1342 chars]"
+    }
+    ]
+    }
